@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kinder-Garden-App/static/css/main.20a4e534.css",
+    "main.js": "/Kinder-Garden-App/static/js/main.c930ca96.js",
+    "static/media/foto2.jpg": "/Kinder-Garden-App/static/media/foto2.5248fffc9d8793b8e441.jpg",
+    "static/media/foto6.jpg": "/Kinder-Garden-App/static/media/foto6.5d79c5ab71f791221d69.jpg",
+    "static/media/foto4.jpg": "/Kinder-Garden-App/static/media/foto4.e42e77f403d1aee4678b.jpg",
+    "static/media/foto3.jpg": "/Kinder-Garden-App/static/media/foto3.072ab40e7c2b6c15edec.jpg",
+    "static/media/foto5.jpg": "/Kinder-Garden-App/static/media/foto5.8c1234f226160dbb722b.jpg",
+    "static/media/foto9.jpg": "/Kinder-Garden-App/static/media/foto9.7bcb302ee67539b84a19.jpg",
+    "static/media/foto8.jpg": "/Kinder-Garden-App/static/media/foto8.603ec101e4f24f973864.jpg",
+    "static/media/foto7.jpg": "/Kinder-Garden-App/static/media/foto7.9c7ab1315639cab3f575.jpg",
+    "static/media/foto1.jpg": "/Kinder-Garden-App/static/media/foto1.b5cf63e570595fc88746.jpg",
+    "index.html": "/Kinder-Garden-App/index.html",
+    "main.20a4e534.css.map": "/Kinder-Garden-App/static/css/main.20a4e534.css.map",
+    "main.c930ca96.js.map": "/Kinder-Garden-App/static/js/main.c930ca96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a4e534.css",
+    "static/js/main.c930ca96.js"
+  ]
+}
