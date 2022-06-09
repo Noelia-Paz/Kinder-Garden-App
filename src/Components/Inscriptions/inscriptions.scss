@@ -1,0 +1,57 @@
+.contentInscripcion {
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text1 {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.text2 {
+  font-size: 25px;
+}
+
+.text3 {
+  font-size: 15px;
+}
+
+.formInscripcion {
+  margin-top: 60px;
+  margin: 40px;
+}
+
+@media screen and (max-width: 1494px) {
+  .text1 {
+    margin: 15px;
+  }
+}
+
+@media screen and (max-width: 1010px) {
+  .col {
+    flex: none;
+  }
+}
+
+@media screen and (max-width: 378px) {
+  .text2 {
+    font-size: 20px;
+  }
+  .text3 {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .text2 {
+    font-size: 15px;
+  }
+  .text3 {
+    font-size: 7px;
+  }
+  .form-label {
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,24 @@
+.contentGarden {
+  background-color: burlywood;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cardContent {
+  margin: 30px 0px;
+  width: 70%;
+}
+
+.imgCard {
+  width: 30%;
+}
+.card-header {
+  width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+  .imgCard {
+    width: 100%;
+  }
+}

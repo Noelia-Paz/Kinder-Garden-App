@@ -1,0 +1,34 @@
+.contentGallery {
+  padding: 100px;
+  background-color: burlywood;
+}
+.card {
+  align-items: center;
+}
+.cardGallery {
+  margin: 20px;
+}
+
+.imgGallery {
+  width: 80%;
+  height: 30vh;
+}
+
+@media screen and (max-width: 1000px) {
+  .contentGallery {
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width: 880px) {
+  .imgGallery {
+    width: 92%;
+    height: 21vh;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .contentGallery {
+    padding: 5px;
+  }
+}

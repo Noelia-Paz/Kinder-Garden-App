@@ -1,0 +1,46 @@
+.contentForm {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: burlywood;
+  height: 100vh;
+}
+
+.formContact {
+  border: 2px solid gray;
+  width: 55%;
+  margin: 20px 90px;
+  padding: 20px;
+}
+
+.Asunto {
+  padding-bottom: 50px;
+}
+
+.msj {
+  padding-bottom: 140px;
+}
+
+.btnContact {
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 560px) {
+  .formContact {
+    width: 90%;
+  }
+  .Asunto {
+    font-size: 10px;
+  }
+
+  .text-muted {
+    font-size: 8px;
+  }
+  .msj {
+    font-size: 10px;
+  }
+
+  .form-control {
+    font-size: 10px;
+  }
+}

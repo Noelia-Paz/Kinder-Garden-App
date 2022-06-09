@@ -1,0 +1,43 @@
+.cardInfo {
+  width: 50%;
+  margin: 50px;
+  height: 60vh;
+}
+
+.divInfo {
+  display: flex;
+  justify-content: center;
+  background-color: burlywood;
+  height: 100vh;
+}
+
+@media screen and (max-width: 1406px) {
+  .cardInfo {
+    width: 70%;
+    margin: 50px;
+    height: 70vh;
+  }
+}
+
+@media screen and (max-width: 843px) {
+  .cardInfo {
+    width: 100%;
+    margin: 25px;
+    height: 90vh;
+  }
+}
+
+@media screen and (max-width: 455px) {
+  .card-text {
+    font-size: 15px;
+  }
+  .card-title {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .card-text {
+    font-size: 10px;
+  }
+}
