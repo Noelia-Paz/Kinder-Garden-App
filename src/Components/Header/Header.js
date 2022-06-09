@@ -11,7 +11,7 @@ function Header() {
         <Nav className="NavSup justify-content-center" activeKey="/home">
           <Nav.Item>
             <Nav.Link>
-              <Link className="item" to="/">
+              <Link className="item" to="/Kinder-Garden-App/">
                 Inicio
               </Link>
             </Nav.Link>
